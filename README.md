@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Mohammed Hasan</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning C & Embedded C<br>📫 How to reach me mohasanbder@gmail.com<br>
