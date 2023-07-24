@@ -18,11 +18,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<p><img align="left" ![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedHasanAhmed&theme=radical&hide_border=true)<br/>
+<p>&nbsp;<img align="center" ![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedHasanAhmed&theme=radical&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
