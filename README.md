@@ -16,11 +16,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedhasanahmed&show_icons=true&locale=en&layout=compact" alt="mohammedhasanahmed" /></p>
+# 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedhasanahmed&show_icons=true&locale=en" alt="mohammedhasanahmed" /></p>
+![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhasanahmed&" alt="mohammedhasanahmed" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedHasanAhmed&theme=radical&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
