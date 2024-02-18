@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhasanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhasanahmed" /> </p>
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 50px/>
+
 # 💫 About Me:
 - computer engineering & Automatic control department @ faculty of engineering tanta university
 - Mentor of Embedded System Team@ Google Developer Student Club (GDSC-Tanta)
