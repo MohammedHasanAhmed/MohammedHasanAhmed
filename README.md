@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hasan</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Hassan</h1>
+<h3 align="center">Undergraduate Embedded SW Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhasanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhasanahmed" /> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **C & Embedded C**
-
+- computer engineering & Automatic control department @ faculty of engineering tanta university
+- Mentor of Embedded System Team@ Google Developer Student Club (GDSC-Tanta)
+- Marketing Volunteer@IEEE-TSB
+- I’m currently learning Embedded System@<a href="https://www.learn-in-depth-store.com" target="blank"> Learn-In-Depth </a> 
+- For my progress page<a href="https://www.learn-in-depth-store.com/certificate/mohasanbder%40gmail.com" target="blank"> Click here </a>
 - 📫 How to reach me **mohasanbser@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,12 +21,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  | ![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedHasanAhmed&theme=radical&hide_border=true) |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedHasanAhmed&theme=radical&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHasanAhmed&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)     | ![](https://github-readme-stats.vercel.app/api?username=MohammedHasanAhmed&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical&hide_border=true&card_width=500px) |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
